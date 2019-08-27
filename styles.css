@@ -1,0 +1,48 @@
+html {
+  background: linear-gradient(0deg, rgba(253,29,246,1) 0%, rgba(234,255,0,1) 50%, rgba(226,29,253,1) 100%);
+  color: yellow;
+}
+h1 {
+  padding: 20px 40px 20px 30px;
+}
+p {
+  padding: 10px 0px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+img {
+  width: 200px;
+  height: auto;
+}
+.pik {
+  width: 100px;
+  height: auto;
+}
+.burn {
+  width: 100px;
+  height: auto;
+  padding: 10px 0px;
+}

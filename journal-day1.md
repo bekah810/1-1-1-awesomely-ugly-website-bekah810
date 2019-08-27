@@ -1,0 +1,3 @@
+Today was the first day of class.
+Before walking in I was scared. scared that I wouldn't be good enough, or smart enough. That my best was not going to be good enough.
+Once I sat down and saw that we all felt that to some degree, I knew I wasn't alone. As the class went on, I felt more and more confident because some of the things we were learning I already new thanks to the foundations class. -note to self, always take the foundations class. after completing the homework I feel better than ever. I am excited about tomorrow and to get the opportunity to learn something new! ps the best feeling in the world is when something isn't working and you are about to ask about it but then you find the error and are able to fix it on your own!
