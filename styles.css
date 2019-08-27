@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 html {
   background: linear-gradient(0deg, rgba(253,29,246,1) 0%, rgba(234,255,0,1) 50%, rgba(226,29,253,1) 100%);
   color: yellow;
